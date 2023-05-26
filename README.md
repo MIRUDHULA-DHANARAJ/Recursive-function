@@ -20,10 +20,11 @@ Recursively calling the function to get the reversed number.
 ## Step 5:
 Print the reversed number.
 
-##Program:
+## Program:
+```
 Developed By: Mirudhula D
 Register no.: 212221230060
-
+```
 ```
 using System;
 namespace hello
@@ -62,12 +63,11 @@ namespace hello
 }
 ```
 
-##Output:
+## Output:
 
 ![EXP-7](https://github.com/MIRUDHULA-DHANARAJ/Recursive-function/assets/94828147/9d723327-bd46-4ca5-819f-1d3a5fcd82f8)
 
 
-##Result:
-
+## Result:
 
 Thus, a C# program to reverse a number using recursive function is executed successfully.
